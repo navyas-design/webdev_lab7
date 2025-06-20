@@ -1,6 +1,7 @@
 body {
-background-image: url(images/background.jpg);
+background-image: url("../images/black.jpg");
 }
+
 
 h1 {
 	text-align:center;
@@ -39,7 +40,7 @@ td {
 	padding: 5px;
 	height: 50px;
 	border: 2px solid black;
-	text: bold;
+
 	
 	}
 
