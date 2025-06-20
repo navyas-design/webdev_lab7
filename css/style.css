@@ -1,5 +1,5 @@
 body {
-background-image: url (https://www.google.com/url?sa=i&url=https%3A%2F%2Fpngtree.com%2Ffree-backgrounds-photos%2Fspace&psig=AOvVaw2bAbqgXEQ7qE02vT0vs1Cc&ust=1750504547094000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKjw6-Lv_40DFQAAAAAdAAAAABAE);
+background-image: url (images/background.jpg);
 background-repeat: no-repeat;
 background-size: cover;
 }
@@ -7,7 +7,7 @@ background-size: cover;
 h1 {
 	text-align:center;
 	color: #453A3A;
-	font-family: https://fonts.google.com/specimen/DM+Serif+Text?categoryFilters=Feeling:%2FExpressive%2FBusiness&preview.text=palnetary%20facts;
+	font-family: Helvetica, arial;
 	font-size: 80px;
 	border: 1ps solid white;
 	padding: 1px;
@@ -37,7 +37,7 @@ th {
 td {
 	text-align:center;
 	color: #120B0B;
-	font-family: https://fonts.google.com/specimen/Comic+Relief?categoryFilters=Feeling:%2FExpressive%2FCute&preview.text=palnetary%20facts;
+	font-family: Comic Sans MS, Comic Sans;
 	padding: 5px;
 	height: 50px;
 	border: 2px solid black;
