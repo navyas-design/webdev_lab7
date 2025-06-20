@@ -1,5 +1,5 @@
 body {
-background-image: url (images/background.jpg);
+background-image: url(images/background.jpg);
 }
 
 h1 {
@@ -43,22 +43,22 @@ td {
 	
 	}
 
-.venus{
+.venus {
   width:24%;
   color: #d0cecf;
   background-color: #3d3b3c;
 }
-.jupiter{
+.jupiter {
   width:24%;
   color: #e5a670;
   background-color: #7a6d5a;
 }
-.saturn{
+.saturn {
   width:24%;
   color: #ebc681;
   background-color: #868370;
 }
-.neptune{
+.neptune {
   width:24%;
   color: #e8ebf2;
   background-color: #be8165;
